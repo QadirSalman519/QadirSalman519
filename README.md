@@ -2,7 +2,7 @@
   <img height="400" width="100%" src="https://images.unsplash.com/photo-1605379399642-870262d3d051?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1812&q=80"  />
 </div>
 
-<h1 align="left">Hi 👋, I'm Ali RaZa</h1>
+<h1 align="left">Hi 👋, I'm Qadir Salman</h1>
 <h3 align="left">Back-end Developer | Building Products | Learning, Building, Selling, Growing.</h3>
 <h3 align="left"> I love building the real world products</h3>
 
@@ -11,23 +11,23 @@
 - 🚀 Making the impossible possible, one line of code at a time.
 
 
-- 🔥 I work at Upwork [[https://www.upwork.com/freelancers/~01bb9d998807bdf561](https://www.upwork.com/freelancers/~01221ae2a60bf7c7d7)](Ali RaZa)
+- 🔥 I work at Upwork [[https://www.upwork.com/freelancers/~01bb9d998807bdf561](https://www.upwork.com/freelancers/~01221ae2a60bf7c7d7)](Qadir Salman)
 
 -  🌈 Download My Resume : [Resume](https://www.canva.com/design/DAGBGSJrnLU/BQ0o6zwRnPgPy30kEKzcPQ/view) 
 
 - 💬 Ask me about **javascript** || **php**
 
-- 📫 How to reach me [**aliraza.1121@yahoo.com**](mailto:aliraza.1121@yahoo.com)
+- 📫 How to reach me [**qadirsalman019@gmail.com**](mailto:qadirsalman019@gmail.com)
 
 <h3 align="left">Connect with me:</h3>
 <div align="left">
   <a href="https://www.instagram.com/aliraza.1121/?hl=en" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-  <a href="mailto:aliraza.1121@yahoo.com" target="_blank">
+  <a href="mailto:qadirsalman019@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Yahoo&logo=yahoo&label=&color=8806ce&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="yahoo logo"  />
   </a>
-  <a href="https://www.linkedin.com/in/sahibzada-ali-raza/" target="_blank">
+  <a href="https://www.linkedin.com/in/qadirsalman" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
