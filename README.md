@@ -4,18 +4,17 @@
 
 <h1 align="left">Hi 👋, I'm Qadir Salman</h1>
 <h3 align="left">Back-end Developer | Building Products | Learning, Building, Selling, Growing.</h3>
-<h3 align="left"> I love building the real world products</h3>
+<h3 align="left"> I love building real-world products.</h3>
 
 - ✨ I’m currently learning **DevOps** and working on some **Products** and projects of clients.
 
 - 🚀 Making the impossible possible, one line of code at a time.
 
+- 🔥 I work at Upwork [Qadir Salman](https://www.upwork.com/freelancers/~01d17b0dee7d3adf80)
 
-- 🔥 I work at Upwork [[https://www.upwork.com/freelancers/~01d17b0dee7d3adf80](https://www.upwork.com/freelancers/~01d17b0dee7d3adf80)](Qadir Salman)
+- 💬 Ask me about **JavaScript** || **PHP**
 
-- 💬 Ask me about **javascript** || **php**
-
-- 📫 How to reach me [**qadirsalman019@gmail.com**](mailto:qadirsalman019@gmail.com)
+- 📫 How to reach me [qadirsalman019@gmail.com](mailto:qadirsalman019@gmail.com)
 
 <h3 align="left">Connect with me:</h3>
 <div align="left">
@@ -30,7 +29,7 @@
   </a>
 </div>
 
-<h3 align="left">Languages, Frameworks , Databases and Tools:</h3>
+<h3 align="left">Languages, Frameworks, Databases, and Tools:</h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="52" alt="typescript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
@@ -38,8 +37,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="52" alt="nodejs logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="40" width="52" alt="python logo"  />
 
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original-wordmark.svg" height="40" width="52" alt="nestjs logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" height="40" width="52" alt="laravel logo"  />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original-wordmark.svg" height="40" width="52" alt="nestjs logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" width="52" alt="laravel logo"  />
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"  height="30" width="42" alt="mysql logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" width="42" alt="postgresql logo"  />
@@ -54,5 +53,4 @@
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original-wordmark.svg" height="40" width="52" alt="socketio logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" width="52" alt="wordpress logo"  />
-
 </div>
