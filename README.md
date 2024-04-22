@@ -11,9 +11,7 @@
 - 🚀 Making the impossible possible, one line of code at a time.
 
 
-- 🔥 I work at Upwork [[https://www.upwork.com/freelancers/~01bb9d998807bdf561](https://www.upwork.com/freelancers/~01221ae2a60bf7c7d7)](Qadir Salman)
-
--  🌈 Download My Resume : [Resume](https://www.canva.com/design/DAGBGSJrnLU/BQ0o6zwRnPgPy30kEKzcPQ/view) 
+- 🔥 I work at Upwork [[https://www.upwork.com/freelancers/~01d17b0dee7d3adf80](https://www.upwork.com/freelancers/~01d17b0dee7d3adf80)](Qadir Salman)
 
 - 💬 Ask me about **javascript** || **php**
 
@@ -21,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <div align="left">
-  <a href="https://www.instagram.com/aliraza.1121/?hl=en" target="_blank">
+  <a href="https://www.instagram.com/qadirsalman09" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
   <a href="mailto:qadirsalman019@gmail.com" target="_blank">
