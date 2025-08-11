@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="400" width="100%" src="https://images.unsplash.com/photo-1605379399642-870262d3d051?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1812&q=80"  />
+  <img height="400" width="100%" src="https://doquizzes.com/wp-content/uploads/2024/10/coding-quiz-1728799388.jpg" width="100%"  />
 </div>
 
 <h1 align="left">Hi 👋, I'm Qadir Salman</h1>
