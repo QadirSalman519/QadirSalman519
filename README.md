@@ -21,7 +21,8 @@
 ✔ Design clean and scalable APIs  
 ✔ Payment integrations (**Stripe, PayPal, Clover**)  
 ✔ Optimize slow queries & backend performance  
-✔ Develop complete business systems (CRM, Lead Management, SaaS)
+✔ Develop complete business systems (CRM, Lead Management, SaaS)  
+✔ Build modern web applications using **Next.js**
 
 ---
 
@@ -34,7 +35,7 @@
 
 ### ⚙️ Frameworks & Libraries
 <p>
-  <img src="https://skillicons.dev/icons?i=laravel,nestjs,react" />
+  <img src="https://skillicons.dev/icons?i=laravel,nestjs,react,nextjs" />
 </p>
 
 ### 🗄 Databases
