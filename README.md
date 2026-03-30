@@ -6,11 +6,12 @@
 
 ## 👨‍💻 About Me
 
-- 🚀 Backend Developer focused on **real-world systems & scalable architectures**
-- 💼 Working with clients on **Upwork** & building independent products
-- 🧠 Currently learning **DevOps, System Design & Cloud Infrastructure**
-- 🔥 Strong grip on **APIs, Databases, Payment Integrations & Automation**
-- 🎯 Goal: Build products that generate **revenue + impact**
+- 🚀 Backend Developer with **6+ years of experience** building scalable and production-ready systems  
+- 💼 Delivered solutions for clients via **Upwork** and direct collaborations  
+- 🧩 Built multiple **production-level systems including CRM, payment integrations & automation tools**  
+- 🧠 Currently learning **DevOps, System Design & Cloud Infrastructure**  
+- ⚡ Specialized in **APIs, databases, payment systems & backend performance optimization**  
+- 🎯 Focused on building **revenue-driven products and business systems**
 
 ---
 
@@ -50,19 +51,19 @@
 
 ## 💼 Featured Work
 
-- 🔹 Lead Management System (End-to-End Sales Workflow)
-- 🔹 Domain Management System (GoDaddy API Integrated)
-- 🔹 Payment Systems (Stripe / PayPal / Clover)
-- 🔹 Custom Business Dashboards & Admin Panels
+- 🔹 Lead Management System (End-to-End Sales Workflow)  
+- 🔹 Domain Management System (GoDaddy API Integrated)  
+- 🔹 Payment Systems (Stripe / PayPal / Clover)  
+- 🔹 Custom Business Dashboards & Admin Panels  
 
 ---
 
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=QadirSalman519&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=QadirSalman519&theme=tokyonight&hide_border=true" height="150"/>
 </div>
 
 ---
