@@ -1,56 +1,88 @@
 <div align="center">
-  <img height="400" width="100%" src="https://doquizzes.com/wp-content/uploads/2024/10/coding-quiz-1728799388.jpg" width="100%"  />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00C2FF&center=true&vCenter=true&width=800&lines=Hi+👋+I'm+Qadir+Salman;Backend+Developer+%7C+Product+Builder;I+build+systems+that+scale" />
 </div>
 
-<h1 align="left">Hi 👋, I'm Qadir Salman</h1>
-<h3 align="left">Back-end Developer | Building Products | Learning, Building, Selling, Growing.</h3>
-<h3 align="left"> I love building real-world products.</h3>
+---
 
-- ✨ I’m currently learning **DevOps** and working on some **Products** and projects of clients.
+## 👨‍💻 About Me
 
-- 🚀 Making the impossible possible, one line of code at a time.
+- 🚀 Backend Developer focused on **real-world systems & scalable architectures**
+- 💼 Working with clients on **Upwork** & building independent products
+- 🧠 Currently learning **DevOps, System Design & Cloud Infrastructure**
+- 🔥 Strong grip on **APIs, Databases, Payment Integrations & Automation**
+- 🎯 Goal: Build products that generate **revenue + impact**
 
-- 🔥 I work at Upwork [Qadir Salman](https://www.upwork.com/freelancers/~01d17b0dee7d3adf80)
+---
 
-- 💬 Ask me about **JavaScript** || **PHP**
+## ⚡ What I Do
 
-- 📫 How to reach me [qadirsalman019@gmail.com](mailto:qadirsalman019@gmail.com)
+✔ Build robust backend systems (Laravel / Node.js)  
+✔ Design clean and scalable APIs  
+✔ Payment integrations (**Stripe, PayPal, Clover**)  
+✔ Optimize slow queries & backend performance  
+✔ Develop complete business systems (CRM, Lead Management, SaaS)
 
-<h3 align="left">Connect with me:</h3>
-<div align="left">
-  <a href="https://www.instagram.com/qadirsalman09" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="mailto:qadirsalman019@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=8806ce&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+---
+
+## 🛠 Tech Stack
+
+### 🚀 Languages & Runtimes
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,php,nodejs,python" />
+</p>
+
+### ⚙️ Frameworks & Libraries
+<p>
+  <img src="https://skillicons.dev/icons?i=laravel,nestjs,react" />
+</p>
+
+### 🗄 Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
+</p>
+
+### ☁️ DevOps & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,linux,git,firebase,apache" />
+</p>
+
+---
+
+## 💼 Featured Work
+
+- 🔹 Lead Management System (End-to-End Sales Workflow)
+- 🔹 Domain Management System (GoDaddy API Integrated)
+- 🔹 Payment Systems (Stripe / PayPal / Clover)
+- 🔹 Custom Business Dashboards & Admin Panels
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" height="150"/>
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://www.upwork.com/freelancers/~01d17b0dee7d3adf80" target="_blank">
+    <img src="https://img.shields.io/badge/Upwork-Profile-6fda44?style=for-the-badge&logo=upwork&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/qadirsalman" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+    <img src="https://img.shields.io/badge/LinkedIn-Qadir%20Salman-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-</div>
+  <a href="mailto:qadirsalman019@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
-<h3 align="left">Languages, Frameworks, Databases, and Tools:</h3>
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="52" alt="typescript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" width="52" alt="php logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="52" alt="nodejs logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="40" width="52" alt="python logo"  />
+---
 
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original-wordmark.svg" height="40" width="52" alt="nestjs logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" width="52" alt="laravel logo"  />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"  height="30" width="42" alt="mysql logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" width="42" alt="postgresql logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="30" width="42" alt="microsoftsqlserver logo"  />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" width="52" alt="mongodb logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" width="52" alt="firebase logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" width="40" alt="aws logo"  />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" width="52" alt="linux logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" width="52" alt="docker logo"  />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" height="40" width="52" alt="git logo" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original-wordmark.svg" height="40" width="52" alt="apache logo" />
+## 💡 Quote
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original-wordmark.svg" height="40" width="52" alt="socketio logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" width="52" alt="wordpress logo"  />
-</div>
+> “I don’t just write code — I build systems that solve real business problems.”
