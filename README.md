@@ -8,7 +8,7 @@
 - 🚀 Senior Full-Stack Engineer with **6+ years** owning production-grade systems end-to-end
 - 💼 Specialized in **eCommerce, SaaS, ERP, and multi-tenant platforms**
 - 💳 Built and integrated **6+ payment gateways**: Stripe, PayPal, Clover, Authorize.Net, Square
-- 🤖 Building **AI integrations**: RAG pipelines and LLM-powered features on a Node.js + PostgreSQL base
+- 🤖 Moving into **AI integration**: RAG pipelines and LLM-powered features on a Node.js + PostgreSQL base
 - 🏗️ Strong focus on **backend architecture, API design, and system scalability**
 - 🎯 I don't just write code. I take **full ownership** from architecture to deployment
 
@@ -18,7 +18,6 @@
 ✔ Architect and own **multi-tenant SaaS platforms** end-to-end  
 ✔ Design clean, scalable **REST APIs**  
 ✔ Integrate complex **payment systems** (Stripe, PayPal, Clover, Authorize.Net, Square)  
-✔ Build **AI-powered features**: RAG pipelines, embeddings, vector search  
 ✔ Optimize backend performance: **query tuning, caching, load handling**  
 ✔ Build complete business systems: **ERP, CRM, Admin Panels, Domain Automation**  
 ✔ Develop full-stack applications using **Laravel, React, Next.js, Node.js**
@@ -41,12 +40,6 @@
   <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" />
 </p>
 
-### 🤖 AI / LLM
-<p>
-  <img src="https://skillicons.dev/icons?i=python" />
-  &nbsp;RAG · Embeddings · pgvector · Gemini / OpenAI APIs
-</p>
-
 ### ☁️ DevOps & Tools
 <p>
   <img src="https://skillicons.dev/icons?i=aws,docker,linux,git,firebase" />
@@ -55,11 +48,11 @@
 ---
 
 ## 💼 Featured Work
-- 🔹 **ClaraReminds** — Live SMS-reminder SaaS with two-way messaging & per-client Stripe subscriptions · Next.js, Twilio, Stripe
-- 🔹 **AI Document Assistant (RAG)** — Q&A over PDFs via embeddings & vector search · Node.js, pgvector, Gemini
-- 🔹 **HMFS** — Web platform for a PSX-listed brokerage: 20+ module admin, role-based access · React, Node.js, MongoDB
-- 🔹 **Multi-Tenant Caregiver & Healthcare Platform** — Laravel, React, Stripe, Pusher
-- 🔹 **Domain Lifecycle Management System** — GoDaddy API, CRON Jobs, Laravel
+- 🔹 **[ClaraReminds](https://clarareminds.com)** — Live SMS-reminder SaaS with two-way messaging & per-client Stripe subscriptions · Next.js, Twilio, Stripe
+- 🔹 **[Habib Metro Financial Services](https://hmfs.com.pk/)** — CMS-backed platform for a PSX-listed brokerage: investor onboarding, 20+ module admin, role-based access · React, Node.js, MongoDB
+- 🔹 **[Premier Physicians of Michigan](https://ppomdr-frontend-stage.devdesignbuild.com/)** — Patient management portal: appointment scheduling, RBAC, doctor/patient dashboards · React, Node.js, MongoDB
+- 🔹 **[Masters Custom Patches](https://partners.masterscustompatches.com/)** — ERP for a US/UK manufacturer: order tracking, production reporting, partner portals · Laravel, React, MySQL
+- 🔹 **[Lokal.pk](https://lokal.pk/)** — Hotel booking platform: listings, booking flows, admin dashboard · Node.js, React, MongoDB
 
 ---
 
