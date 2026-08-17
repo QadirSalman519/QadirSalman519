@@ -40,6 +40,11 @@
   <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" />
 </p>
 
+### 🤖 AI / LLM
+<p>
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" />
+</p>
+
 ### ☁️ DevOps & Tools
 <p>
   <img src="https://skillicons.dev/icons?i=aws,docker,linux,git,firebase" />
