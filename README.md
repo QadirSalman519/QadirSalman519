@@ -5,22 +5,25 @@
 ---
 
 ## 👨‍💻 About Me
-- 🚀 Senior Full-Stack Engineer with **6+ years** owning production-grade systems end-to-end
-- 💼 Specialized in **eCommerce, SaaS, ERP, and multi-tenant platforms**
-- 💳 Built and integrated **6+ payment gateways**: Stripe, PayPal, Clover, Authorize.Net, Square
-- 🤖 Moving into **AI integration**: RAG pipelines and LLM-powered features on a Node.js + PostgreSQL base
-- 🏗️ Strong focus on **backend architecture, API design, and system scalability**
-- 🎯 I don't just write code. I take **full ownership** from architecture to deployment
+
+- 🚀 Senior Full-Stack Engineer with **6+ years of experience** owning production-grade systems end to end
+- 💼 Specialized in **SaaS, eCommerce, ERP, and multi-tenant platforms**
+- 💳 Built and integrated payment workflows using **Stripe, PayPal, Clover, Authorize.Net, and Square**
+- 🤖 Build **AI-powered applications** using RAG pipelines, OpenAI, Gemini, embeddings, PostgreSQL, and pgvector
+- 🏗️ Strong focus on **backend architecture, API design, performance, and system scalability**
+- 🎯 Take **full technical ownership** from architecture and development through production deployment
 
 ---
 
 ## ⚡ What I Do
-✔ Architect and own **multi-tenant SaaS platforms** end-to-end  
-✔ Design clean, scalable **REST APIs**  
-✔ Integrate complex **payment systems** (Stripe, PayPal, Clover, Authorize.Net, Square)  
-✔ Optimize backend performance: **query tuning, caching, load handling**  
-✔ Build complete business systems: **ERP, CRM, Admin Panels, Domain Automation**  
-✔ Develop full-stack applications using **Laravel, React, Next.js, Node.js**
+
+✔ Architect and build **multi-tenant SaaS platforms** end to end  
+✔ Develop **AI-powered applications** using RAG, LLM APIs, embeddings, and vector search  
+✔ Design clean, secure, and scalable **REST APIs**  
+✔ Integrate complex **payment systems** using Stripe, PayPal, Clover, Authorize.Net, and Square  
+✔ Optimize backend performance through **query tuning, caching, and background processing**  
+✔ Build complete business systems, including **ERP solutions, admin panels, and workflow automation**  
+✔ Develop full-stack applications using **Laravel, React, Next.js, Node.js, and TypeScript**
 
 ---
 
