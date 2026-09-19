@@ -64,15 +64,6 @@
 
 ---
 
-## 📈 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=QadirSalman519&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=QadirSalman519&theme=tokyonight&hide_border=true" height="150"/>
-</div>
-
----
-
 ## 🌐 Connect With Me
 <p align="left">
   <a href="https://qadir-salman.vercel.app" target="_blank">
